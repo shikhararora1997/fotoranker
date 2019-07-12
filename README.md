@@ -3,4 +3,4 @@ Python code to select the best image comparing various features namely brightnes
 
 The result matrix received in the result directory is like this -
 
-![alt text](/Users/shikhararora/Desktop)
+![](result.png)
